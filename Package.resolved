@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/braze-inc/braze-ios-sdk.git",
         "state": {
           "branch": null,
-          "revision": "cb6470044aee9ac2a942a3edb2ea73b7f61f1aae",
-          "version": "4.4.1"
+          "revision": "b751de27f3ca15c32249c07513ec68f15eae654c",
+          "version": "4.4.3"
         }
       },
       {
